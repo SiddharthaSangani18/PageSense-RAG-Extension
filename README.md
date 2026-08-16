@@ -24,7 +24,7 @@ PageSense is an AI-powered Chrome Extension that enables users to chat with any 
 
 ## 🏗️ System Architecture
 
-<img width="1065" height="707" alt="Screenshot 2026-08-12 171215" src="https://github.com/user-attachments/assets/bf2a9424-3941-4e35-b82c-e8a829dbb6d6" />
+<img width="1065" height="707" alt="Screenshot 2026-08-12 171215" src="https://github.com/user-attachments/assets/dc801c3f-c0d3-4b0a-9b13-26ceed516c05" />
 
 
 # ⚙️ How It Works
@@ -301,7 +301,8 @@ What is today's date?
 Latest AI news?
 ```
 # OVERVIEW 
-<img width="1913" height="1083" alt="Screenshot 2026-08-12 172711" src="https://github.com/user-attachments/assets/e1da5968-eac6-4d9e-92ec-6a0d49e02453" />
+<img width="1913" height="1083" alt="Screenshot 2026-08-12 172711" src="https://github.com/user-attachments/assets/7c380a6c-7505-4978-ba13-96ddadbaa079" />
+
 
 
 
